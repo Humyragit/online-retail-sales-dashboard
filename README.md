@@ -29,6 +29,11 @@ It demonstrates my ability to **clean, analyze, and visualize data** to support 
 
 ---
 
+### 💡 Dashboard Preview
+![Dashboard Screenshot](Dashboard 1.png)
+
+---
+
 ### 🌐 Live Dashboard
 🔗 [View on Tableau Public](https://tinyurl.com/retail-dashboard-2025)
 
