@@ -44,4 +44,4 @@ I’m a data enthusiast with a background in **Data Science and Analytics**, ski
 Currently building projects in **Tableau, Python, and AI-powered analytics**.
 
 📧 Email: humyraislam10621@gmail.com 
-🌍 LinkedIn: www.linkedin.com/in/humyra-islam-63176728a
+🌍 LinkedIn: www.linkedin.com/in/humyra10621
