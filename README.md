@@ -30,7 +30,7 @@ It demonstrates my ability to **clean, analyze, and visualize data** to support 
 ---
 
 ### 💡 Dashboard Preview
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
